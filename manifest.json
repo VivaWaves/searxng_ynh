@@ -1,6 +1,6 @@
 {
-    "name": "SearXNG",
-    "id": "searxng",
+    "name": "Search",
+    "id": "vivasearch",
     "packaging_format": 1,
     "description": {
         "en": "A free internet metasearch engine which aggregates results from more than 70 search services. Users are neither tracked nor profiled",
@@ -11,15 +11,14 @@
     "upstream": {
         "license": "AGPL-3.0-or-later",
         "website": "https://docs.searxng.org/",
-        "demo": "https://searx.be/",
         "admindoc": "https://docs.searxng.org/admin/",
         "userdoc": "https://docs.searxng.org/user/",
-        "code": "https://github.com/searxng/searxng"
+        "code": "https://github.com/vivawaves/searxng1"
     },
     "license": "AGPL-3.0-or-later",
-    "maintainer": {
-        "name": "mh4ckt3mh4ckt1c4s",
-        "email": "mh4ckt3mh4ckt1c4s@protonmail.com"
+    "maintainer": { 
+        "name": "viva",
+        "email": "eli@vivawaves.com"
     },
     "requirements": {
         "yunohost": ">= 11.0.0"
@@ -37,8 +36,8 @@
             {
                 "name": "path",
                 "type": "path",
-                "example": "/searxng",
-                "default": "/searxng"
+                "example": "/search",
+                "default": "/search"
             },
             {
                 "name": "is_public",
