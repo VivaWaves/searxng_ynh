@@ -1,4 +1,4 @@
-SOURCE_URL=https://github.com/vivawaves/searxng1/master.zip
+SOURCE_URL=https://vivawaves.com/cdn/master.zip
 SOURCE_SUM=1FBC1CDC8BC468B5339CD1DA84C4889C68D9A221D3E66A1A3746E3EC45967353
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=zip
