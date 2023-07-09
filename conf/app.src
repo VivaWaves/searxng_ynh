@@ -1,5 +1,5 @@
-SOURCE_URL=https://vivawaves.com/start/app.zip
-SOURCE_SUM=3191c20f573720c4abd2dba70c5f6f7f3ffafb93
+SOURCE_URL=https://vivawaves.com/start/master.zip
+SOURCE_SUM=b6a58bf10eb8508617bd99e4de8942bd01414708
 SOURCE_SUM_PRG=sha1sum
 SOURCE_FORMAT=zip
 SOURCE_IN_SUBDIR=true
